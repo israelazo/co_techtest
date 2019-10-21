@@ -21,5 +21,8 @@
   "homepage": "https://github.com/israelazo/co_techtest#readme",
   "dependencies": {
     "jest": "^24.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1"
   }
 }
