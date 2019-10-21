@@ -1,6 +1,5 @@
-node_modules
-coverage
-build
+/node_modules
+/coverage
 npm-debug.log
 .env
 .DS_Store
